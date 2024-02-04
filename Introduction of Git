@@ -1,0 +1,23 @@
+
+Git basics
+
+Git is a free and open-source version control system, originally created by Linus Torvalds in 2005.
+Unlike older centralized version control systems such as SVN and CVS, Git is distributed: every developer has the full history of their code repository locally. 
+This makes the initial clone of the repository slower, but subsequent operations such as commit, blame, diff, merge, and log dramatically faster.
+Git also has excellent support for branching, merging, and rewriting repository history, which has led to many innovative and powerful workflows and tools. 
+Pull requests are one such popular tool that allows teams to collaborate on Git branches and efficiently review each other's code.
+Git and BitBucket are same but it's working,GUI, system interface are make different.
+
+Difference of Git and Biitbucket
+Git is version control software. You can use to maintain change histroy while keep changing your code. and also it is helpful if more people are involved in the 
+same project.
+
+Bitbucket- It's where you keep copy of your code (with change history)so that people can access your code anytime without having to come to computer. 
+it is maintained by Atlassian group.
+
+Git is a version control system, while Bitbucket is a hosting service for Git repositories.
+Git can be used with a variety of hosting services, including GitHub and GitLab, while Bitbucket is specifically designed for hosting Git repositories.
+Git is a command-line tool, while Bitbucket provides a web-based interface for managing Git repositories.
+Git is open source software, while Bitbucket is a proprietary service offered by Atlassian.
+Git is primarily used for version control, while Bitbucket offers additional features such as issue tracking and pull request management.
+Git is free to use, while Bitbucket offers both free and paid plans depending on the number of users and repositories.
