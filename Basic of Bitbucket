@@ -1,5 +1,6 @@
 1.Install Git:
-   Before you start using Git, you need to have it installed on your machine. You can download and install it from https://git-scm.com/.
+   Before you start using Git, you need to have it installed on your machine. 
+   You can download and install it from https://git-scm.com/.
 
 2. Configure Git:
     After installing Git, you need to configure it with your name and email:
